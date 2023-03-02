@@ -16,3 +16,5 @@ Os principais são Id, Nome, Matrícula e Curso.
 ## ⇨ Como essas entidades estão relacionadas?
 São relacionadas 1:N e 1:1, assim como Login está associado a Aluno, Aluno está associado a Turma e Curso, e Turma está associada a Curso.
 
+
+![Sistema de acompanhamento](https://user-images.githubusercontent.com/115434062/222433624-3843d4c9-faba-4a1f-ba2c-918942ec5783.png)
